@@ -1,4 +1,5 @@
 # Heart disease dataset - Exploratory Data Analysis
+<img width="385" alt="Screenshot 2022-08-19 at 5 09 40 PM" src="https://user-images.githubusercontent.com/58548292/185649886-f35e9ba5-095a-4419-8501-9233023ee140.png">
 
 ![alt text]()
 -------------------------------------------------------------------------------------------------------------------------------------------------------
